@@ -9,7 +9,7 @@ public class FirstClassInGit {
 		System.out.print("What is your last name? "); 
 		String value = input.nextLine(); 
 	    
-		System.out.println("My last name is " + value); 
+		System.out.println("My full name is Holly " + value); 
 		
 
 	}
