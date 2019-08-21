@@ -8,10 +8,9 @@ public class FirstClassInGit {
 		System.out.println("Hello, my name is Holly.");
 		System.out.print("What is your last name? "); 
 		String value = input.nextLine(); 
-	
-		//add a statement to display your name in the console
+	    
+		System.out.println("My last name is " + value); 
 		
-		//Then commit your changes
 
 	}
 
